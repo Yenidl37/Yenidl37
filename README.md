@@ -49,5 +49,6 @@ El markdown lo aprendí en [Tecnolochicas](https://tecnolochicas.mx/)
 
 [markdown](https://markdown.es/)
 [En github](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[Página de íconos](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 -->
 
